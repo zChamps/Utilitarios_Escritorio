@@ -11,5 +11,7 @@
 
  5 - SEPARADOR NOME/MATRICULA: Frequentemente no sistema ou em formulários, recebemos o nome e matricula de uma pessoa juntos, utilizando essa funcionalidade é simplificado automáticamente.
 
+Também transformei esse aplicativo em um executável, para utilizar sem precisar de um editor de código, em qualquer máquina.
+
 
  Obrigado!
